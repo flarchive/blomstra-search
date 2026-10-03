@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of blomstra/search.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/search) or the [upstream repository](https://github.com/blomstra/flarum-ext-search).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/blomstra-search/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.2.0`
+**42** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/blomstra-search/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2021-10-22 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.1) |
+| `0.0.10` | 2021-11-04 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.10) |
+| `0.0.11` | 2021-11-05 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.11) |
+| `0.0.12` | 2021-11-05 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.12) |
+| `0.0.13` | 2021-11-05 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.13) |
+| `0.0.14` | 2021-11-06 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.14) |
+| `0.0.15` | 2021-11-08 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.15) |
+| `0.0.16` | 2021-11-08 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.16) |
+| `0.0.17` | 2021-11-08 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.17) |
+| `0.0.18` | 2021-11-08 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-search/tree/archive/v0.0.18) |
+
+[View all 42 versions](https://github.com/flarchive/blomstra-search/tags)
 
 Catalog entry: [packages/blomstra-search.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-search.json)
 
